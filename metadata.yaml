@@ -1,6 +1,6 @@
 name: astrbot_plugin_netcourse
 desc: 网课任务查询插件
 help: 发送「/网课查询 手机号/学号」查询网课任务
-version: 1.0.0
+version: 1.2.0
 author: nbx
 repo: https://github.com/N724/wkcx
