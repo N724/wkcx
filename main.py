@@ -39,7 +39,7 @@ DEFAULT_HEADERS = {
 }
 # --- END OF SENSITIVE DATA ---
 
-@register("netcourse", "聂半仙", "网课任务查询插件 (升级版)", "1.1.0") # Updated version and name
+@register("netcourse", "聂半仙", "网课任务查询插件 (升级版)", "1.2.0") # Updated version and name
 class NetCoursePlugin(Star):
     def __init__(self, context: Context) -> None:
         super().__init__(context)
